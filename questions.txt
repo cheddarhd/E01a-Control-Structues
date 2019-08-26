@@ -1,58 +1,81 @@
 Open main1.py. Before running it, what do you expect this program to do? 
 
+It is going to say greetings and give you a place to type your favorite color.
+
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
 
 What do you think the program did with what you typed?
 
-
+changed the font color to that color?
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
 
 What do you think the color = input() will do? 
 
+its going to write out the color
+
 Run the program in the terminal and answer the question. Did the program do what you expected?
 
-
+Yes
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
 
-What is happening on lines 11–14? 
+There is a correct answer to this code.
+
+What is happening on lines 11–14?
+
+Its a test for the code to run to see if the answer is correct.
 
 Why are lines 12 and 14 indented? 
 
+Because its criteria for the IF test
+
 Run the program and answer the question. What happens if you don’t capitalize Red? 
+
+It says sorry, try again. 
 
 What does this tell you about "color"?
 
+That it can be used as a test.
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
 
 What problem is this trying to solve? 
 
+Solving to not require capitalzation of the color.
+
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
 
-
+it says sorry try again
 
 Open main5.py. What do you expect line 11 to do? 
 
 What problem is it trying to solve? 
 
+Solve the problem of having to be specific w/ the capitalization
+
 Run the program and answer the question. What happens if you add spaces before or after the word (i.e., “  RED  “ or “ red”)?
 
+It says try again.
 
 
 Open main6.py. How is line 11 different than main5.py? 
 
 What would you guess .strip() is doing? 
 
+It has the .strip() which I will assume it will only consider the characters as part of the answer.
+
 Run the program and answer the question. Is there another way of writing “red” that will break this logic?
 
+Adding punctuation
 
 
 Open main7.py. Before running this program, how do you expect this to be different than main6.py? 
 
 What is the purpose of line 11? 
+
+If you guess Pink it will say close! because they are similiar colors and this is just antoher answer of the IF test.
 
 Run the program and answer the question.
 
