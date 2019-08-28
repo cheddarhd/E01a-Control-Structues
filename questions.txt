@@ -81,21 +81,21 @@ Run the program and answer the question.
 
 
 
-Open main8.py. What is the purpose of line 11? 
+Open main8.py. What is the purpose of line 11? Puts the non capitalization rule on all answers.
 
-Why are lines 12–19 indented? 
+Why are lines 12–19 indented? To put all of the colors under the rule of the while
 
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
 
 Make that change and run the program again. To end any Python program, you can type ctrl-c.
 
+The program had no response to any answer it just ended.
 
+Open main9.py. What is happening on line 12? It allows the program to keep accepting answers.
 
-Open main9.py. What is happening on line 12? 
+What is the purpose of “count”? Count how many times you input an answer and totals it.
 
-What is the purpose of “count”? 
-
-What is happening on line 22? 
+What is happening on line 22? Printing the count of tries.
 
 Run the program.
 
@@ -104,4 +104,4 @@ Run the program.
 
 Commit your changes and push them back to the repository. 
 
-Did you do the extra credit?
+Did you do the extra credit? I wish but no. Trying to remember. 
